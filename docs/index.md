@@ -1,26 +1,26 @@
 # Introduction
 
 Welcome to the Documentation for the Plural Open Data project (formerly Open States). The sections below cover
-contributing to scrapers & data, and how to use the API.
+Contributing to scrapers & data, and how to use the API.
 
 ## About Plural Open
 
 Plural Open strives to improve civic engagement at the state level by providing data and tools regarding state
 legislatures. We aim to serve members of the public, activist groups, journalists, and researchers with better data on
-what is happening in their state capital, and to provide tools to reduce barriers to participation and increase
+what is happening in their state capital. We also aim to provide tools to reduce barriers to participation and increase
 engagement.
 
 The project aggregates legislative information from all 50 states, Washington, D.C., and Puerto Rico. This information
-is then standardized, cleaned, and published to the public via PluralPolicy.com/open, a powerful API, and bulk
+is then standardised, cleaned, and published to the public via PluralPolicy.com/open, a powerful API, and bulk
 downloads.
 
 This work was begun as the [Open States project and has a long history](https://open.pluralpolicy.com/about/). We moved
-the work under [Plural Open in 2023](https://blog.openstates.org/2023-june-changes/).
+The work under [Plural Open in 2023](https://blog.openstates.org/2023-june-changes/).
 
 Our open data work is [done in the open](https://github.com/openstates/), and depends in part on contributors to make
 this
-important resource available. Thank you for your interest in our community, whether you are looking to use our bulk data
-or APIs or interested in contributing data or code, we're glad to have you here.
+important resource available. Thank you for your interest in our community. Whether you want to use our bulk data
+or APIs or are interested in contributing data or code, we're glad to have you here.
 
 ## Communication
 
@@ -38,12 +38,12 @@ but it may sometimes take a bit of time to get back to you.
 **Want to ask a general question, have a conversation, or keep up with
 the community?**
 
-We have a Matrix chat space that you [can join if you're
-interested in being a part of the community](https://matrix.to/#/#open-states:matrix.org). The
-Matrix space (similar to Slack) is a good way to raise an emergency issue (API seems down, etc.)
-or ask questions about how to get involved/contribute.
+We have a Matrix chat space that you can join if you're
+interested in being a part of the community (https://matrix.to/#/#open-states:matrix.org). The
+Matrix space (similar to Slack) is a good way to raise an emergency issue (API seems down, etc).
+Or ask questions about how to get involved/contribute.
 
-**Have a private question, or a security concern?**
+**Have a private question or a security concern?**
 
 Email <support@pluralpolicy.com>; only the administrative team can see these.
 
@@ -64,4 +64,4 @@ Please respect our boundaries & refrain from contacting any of the developers di
 **Twitter (or any other social media)**
 
 We mainly use the [@openstates twitter account](https://twitter.com/openstates) to make announcements, and
-don't have the resources to provide technical support or other feedback on Twitter.
+Don't have the resources to provide technical support or other feedback on Twitter.
